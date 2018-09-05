@@ -7,6 +7,7 @@ public class GitTest {
 		System.out.println("release1");
 		System.out.println("develop1");
 		System.out.println("develop2");
+		System.out.println("release2");
 	}
 
 }
